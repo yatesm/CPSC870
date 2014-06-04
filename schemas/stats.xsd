@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<xsd:schema attributeFormDefault="unqualified" elementFormDefault="qualified" version="1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="stats" type="statsType" />
+  <xsd:complexType name="statsType">
+    <xsd:sequence>
+      <xsd:element name="zombiesKilled" type="xsd:int" />
+      <xsd:element name="peopleShot" type="xsd:int" />
+      <xsd:element name="peopleEaten" type="xsd:int" />
+      <xsd:element name="timesDied" type="xsd:int" />
+      <xsd:element name="score" type="xsd:int" />
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:schema>

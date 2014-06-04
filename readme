@@ -1,0 +1,18 @@
+Yates Monteith
+
+Milestone 6
+
+Read Me
+
+In this milestone, I performed significant refactoring on the code in order to incorporate another game into my design.  The idea was to have a second game that you could switch between without having to re-execute the program.  I accomplished this through use of inheritance to manage variation between the two games.  Additionally, by using inheritance I was able to refactor significant amounts of code out of the Manager class into a Manager derived superclass from which both individual game's managers were derived.
+
+For instance, refactoring the save/load functions to the superclass, and using a little genericism allowed me to reduce the overall code of saving/loading by 500 lines, and even more if I were to use more simple clone'n'own methods in each of the game's managers.
+
+The results of this are a second game that is more fun than the first, in about the same amount of code as last milestone.
+
+Things I'm not happy about:
+	I couldn't get sound working.  This game would be complete if it had sound.  But ask Liz, Marshall, Sam, Daniel or Matt.  Sound beat me.
+	
+Sorry, I'm so tired.
+
+Yates

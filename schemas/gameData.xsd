@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<xsd:schema attributeFormDefault="unqualified" elementFormDefault="qualified" version="1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="game-specs" type="game-specsType" />
+  <xsd:complexType name="game-specsType">
+    <xsd:sequence>
+      <xsd:element name="view-dimensions" type="view-dimensionsType" />
+      <xsd:element name="world-dimensions" type="world-dimensionsType" />
+      <xsd:element name="explosion-properties" type="explosion-propertiesType" />
+      <xsd:element name="peopleCount" type="xsd:int" />
+      <xsd:element name="zombieCount" type="xsd:int" />
+      <xsd:element name="initialHumans" type="xsd:int" />
+      <xsd:element name="initialZombies" type="xsd:int" />
+      <xsd:element name="ioManager-properties" type="ioManager-propertiesType" />
+      <xsd:element name="bullet-properties" type="bullet-propertiesType" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="bullet-propertiesType">
+    <xsd:sequence>
+      <xsd:element name="bulletSpeed" type="xsd:int" />
+      <xsd:element name="maxBulletDistance" type="xsd:int" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="ioManager-propertiesType">
+    <xsd:sequence>
+      <xsd:element name="ioManagerFontSize" type="xsd:int" />
+      <xsd:element name="ioManagerMaxString" type="xsd:int" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="explosion-propertiesType">
+    <xsd:sequence>
+      <xsd:element name="explosionChunkSize" type="xsd:int" />
+      <xsd:element name="explosionMaxDistance" type="xsd:int" />
+      <xsd:element name="explosionSpeed" type="xsd:int" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="world-dimensionsType">
+    <xsd:sequence>
+      <xsd:element name="worldwidth" type="xsd:int" />
+      <xsd:element name="worldheight" type="xsd:int" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="view-dimensionsType">
+    <xsd:sequence>
+      <xsd:element name="viewwidth" type="xsd:int" />
+      <xsd:element name="viewheight" type="xsd:int" />
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:schema>

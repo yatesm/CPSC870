@@ -1,0 +1,40 @@
+
+=================== FREESOUND ATTRIBUTION FORM =======================
+
+This form below lists all the samples in this pack with their descriptions and tags.
+You can use this form to attribute samples to users when you use them.
+
+=========================== CUT HERE =================================
+
+File:
+	Name: "Multi Groan 1.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63630
+	Date of upload: 2008-11-25 18:45:12
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Multiple Zombie groans
+
+Tags:
+	brains group mob zombies 
+======================================================================
+
+File:
+	Name: "Multi Groan 2.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63631
+	Date of upload: 2008-11-25 18:45:19
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Multiple Zombie groans
+
+Tags:
+	brains group mob zombies 
+======================================================================
+

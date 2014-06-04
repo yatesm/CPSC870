@@ -1,0 +1,17 @@
+<sounds>
+	<groan>sounds/groans/groan1.wav</groan>
+	<groan>sounds/groans/groan2.wav</groan>
+	<groan>sounds/groans/groan3.wav</groan>
+	<groan>sounds/groans/groan4.wav</groan>
+	<scream>sounds/screams/scream1.wav</scream>
+	<scream>sounds/screams/scream2.wav</scream>
+	<scream>sounds/screams/scream3.wav</scream>
+	<scream>sounds/screams/scream4.wav</scream>	
+	<scream>sounds/screams/scream5.wav</scream>
+	<scream>sounds/screams/scream6.wav</scream>	
+	<scream>sounds/screams/scream7.wav</scream>
+	<scream>sounds/screams/scream8.wav</scream>	
+	<scream>sounds/screams/scream9.wav</scream>
+	<scream>sounds/screams/scream10.wav</scream>							
+	<misc>sounds/misc/gun.wav</misc>
+</sounds>

@@ -1,0 +1,168 @@
+
+=================== FREESOUND ATTRIBUTION FORM =======================
+
+This form below lists all the samples in this pack with their descriptions and tags.
+You can use this form to attribute samples to users when you use them.
+
+=========================== CUT HERE =================================
+
+File:
+	Name: "Screaming 1.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63632
+	Date of upload: 2008-11-25 18:45:31
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Zombie related screams
+
+Tags:
+	scared screaming zombies 
+======================================================================
+
+File:
+	Name: "Screaming 10.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63633
+	Date of upload: 2008-11-25 18:45:38
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Zombie related screams
+
+Tags:
+	scared screaming zombies 
+======================================================================
+
+File:
+	Name: "Screaming 2.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63634
+	Date of upload: 2008-11-25 18:45:46
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Zombie related screams
+
+Tags:
+	scared screaming zombies 
+======================================================================
+
+File:
+	Name: "Screaming 3.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63635
+	Date of upload: 2008-11-26 08:33:20
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Zombie related screams
+
+Tags:
+	scared screaming zombies 
+======================================================================
+
+File:
+	Name: "Screaming 4.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63636
+	Date of upload: 2008-11-26 08:33:34
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Zombie related screams
+
+Tags:
+	scared screaming zombies 
+======================================================================
+
+File:
+	Name: "Screaming 5.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63637
+	Date of upload: 2008-11-26 08:33:44
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Zombie related screams
+
+Tags:
+	scared screaming zombies 
+======================================================================
+
+File:
+	Name: "Screaming 6.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63638
+	Date of upload: 2008-11-26 08:33:59
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Zombie related screams
+
+Tags:
+	scared screaming zombies 
+======================================================================
+
+File:
+	Name: "Screaming 7.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63639
+	Date of upload: 2008-11-26 08:34:05
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Zombie related screams
+
+Tags:
+	scared screaming zombies 
+======================================================================
+
+File:
+	Name: "Screaming 8.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63640
+	Date of upload: 2008-11-26 08:34:13
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Zombie related screams
+
+Tags:
+	scared screaming zombies 
+======================================================================
+
+File:
+	Name: "Screaming 9.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=63641
+	Date of upload: 2008-11-26 08:34:23
+	
+Designer / Creator / Uploader:
+	Name: "vtownpunks"
+	Url: http://www.freesound.org/usersViewSingle.php?id=842115
+	
+Description:
+	By "vtownpunks" : Zombie related screams
+
+Tags:
+	scared screaming zombies 
+======================================================================
+

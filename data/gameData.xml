@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<game-specs>
+		<view-dimensions>
+			<viewwidth>640</viewwidth>
+			<viewheight>480</viewheight>
+		</view-dimensions>
+		<world-dimensions>
+			<worldwidth>1280</worldwidth>
+			<worldheight>960</worldheight>
+		</world-dimensions>
+		<explosion-properties>
+			<explosionChunkSize>6</explosionChunkSize>
+			<explosionMaxDistance>25</explosionMaxDistance>
+			<explosionSpeed>15</explosionSpeed>
+		</explosion-properties>
+		<peopleCount>40</peopleCount>
+		<zombieCount>4</zombieCount>
+		<initialHumans>6</initialHumans>
+		<initialZombies>80</initialZombies>
+		<ioManager-properties>
+			<ioManagerFontSize>32</ioManagerFontSize>
+			<ioManagerMaxString>50</ioManagerMaxString>
+		</ioManager-properties>
+		<bullet-properties>
+			<bulletSpeed>75</bulletSpeed>
+			<maxBulletDistance>200</maxBulletDistance>
+		</bullet-properties>
+</game-specs>

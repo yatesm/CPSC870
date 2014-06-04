@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-16"?>
+<xsd:schema attributeFormDefault="unqualified" elementFormDefault="qualified" version="1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="image-data" type="image-dataType" />
+  <xsd:complexType name="image-dataType">
+    <xsd:sequence>
+      <xsd:element name="humanFaceImage" type="humanFaceImageType" />
+      <xsd:element name="scaredFaceImage" type="scaredFaceImageType" />
+      <xsd:element name="freakedFaceImage" type="freakedFaceImageType" />
+      <xsd:element name="femaleFaceImage" type="femaleFaceImageType" />
+      <xsd:element name="zombieFaceImage" type="zombieFaceImageType" />
+      <xsd:element name="bloodSplatImage" type="bloodSplatImageType" />
+      <xsd:element name="bloodSplat2Image" type="bloodSplat2ImageType" />
+      <xsd:element name="bloodSplat3Image" type="bloodSplat3ImageType" />
+      <xsd:element name="bloodSplat4Image" type="bloodSplat4ImageType" />
+      <xsd:element name="backgroundImage" type="backgroundImageType" />
+      <xsd:element name="bulletImage" type="bulletImageType" />
+      <xsd:element name="zombieButtonImage" type="zombieButtonImageType" />
+      <xsd:element name="humanButtonImage" type="humanButtonImageType" />
+      <xsd:element name="loadButtonImage" type="loadButtonImageType" />
+      <xsd:element name="helpButtonImage" type="helpButtonImageType" />
+      <xsd:element name="exitButtonImage" type="exitButtonImageType" />
+      <xsd:element name="zombieChaseButtonImage" type="zombieChaseButtonImageType" />
+      <xsd:element name="zombieDefenseButtonImage" type="zombieDefenseButtonImageType" />
+      <xsd:element name="returnButtonImage" type="returnButtonImageType" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="returnButtonImageType">
+    <xsd:sequence>
+      <xsd:element name="returnButtonFileLocation" type="xsd:string" />
+      <xsd:element name="returnButtonWidth" type="xsd:int" />
+      <xsd:element name="returnButtonHeight" type="xsd:int" />
+      <xsd:element name="returnButtonSrcX" type="xsd:int" />
+      <xsd:element name="returnButtonSrcY" type="xsd:int" />
+      <xsd:element name="returnButtonColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="zombieDefenseButtonImageType">
+    <xsd:sequence>
+      <xsd:element name="zombieDefenseButtonFileLocation" type="xsd:string" />
+      <xsd:element name="zombieDefenseButtonWidth" type="xsd:int" />
+      <xsd:element name="zombieDefenseButtonHeight" type="xsd:int" />
+      <xsd:element name="zombieDefenseButtonSrcX" type="xsd:int" />
+      <xsd:element name="zombieDefenseButtonSrcY" type="xsd:int" />
+      <xsd:element name="zombieDefenseButtonColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="zombieChaseButtonImageType">
+    <xsd:sequence>
+      <xsd:element name="zombieChaseButtonFileLocation" type="xsd:string" />
+      <xsd:element name="zombieChaseButtonWidth" type="xsd:int" />
+      <xsd:element name="zombieChaseButtonHeight" type="xsd:int" />
+      <xsd:element name="zombieChaseButtonSrcX" type="xsd:int" />
+      <xsd:element name="zombieChaseButtonSrcY" type="xsd:int" />
+      <xsd:element name="zombieChaseButtonColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="exitButtonImageType">
+    <xsd:sequence>
+      <xsd:element name="exitButtonFileLocation" type="xsd:string" />
+      <xsd:element name="exitButtonWidth" type="xsd:int" />
+      <xsd:element name="exitButtonHeight" type="xsd:int" />
+      <xsd:element name="exitButtonSrcX" type="xsd:int" />
+      <xsd:element name="exitButtonSrcY" type="xsd:int" />
+      <xsd:element name="exitButtonColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="helpButtonImageType">
+    <xsd:sequence>
+      <xsd:element name="helpButtonFileLocation" type="xsd:string" />
+      <xsd:element name="helpButtonWidth" type="xsd:int" />
+      <xsd:element name="helpButtonHeight" type="xsd:int" />
+      <xsd:element name="helpButtonSrcX" type="xsd:int" />
+      <xsd:element name="helpButtonSrcY" type="xsd:int" />
+      <xsd:element name="helpButtonColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="loadButtonImageType">
+    <xsd:sequence>
+      <xsd:element name="loadButtonFileLocation" type="xsd:string" />
+      <xsd:element name="loadButtonWidth" type="xsd:int" />
+      <xsd:element name="loadButtonHeight" type="xsd:int" />
+      <xsd:element name="loadButtonSrcX" type="xsd:int" />
+      <xsd:element name="loadButtonSrcY" type="xsd:int" />
+      <xsd:element name="loadButtonColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="humanButtonImageType">
+    <xsd:sequence>
+      <xsd:element name="humanButtonFileLocation" type="xsd:string" />
+      <xsd:element name="humanButtonWidth" type="xsd:int" />
+      <xsd:element name="humanButtonHeight" type="xsd:int" />
+      <xsd:element name="humanButtonSrcX" type="xsd:int" />
+      <xsd:element name="humanButtonSrcY" type="xsd:int" />
+      <xsd:element name="humanButtonColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="zombieButtonImageType">
+    <xsd:sequence>
+      <xsd:element name="zombieButtonFileLocation" type="xsd:string" />
+      <xsd:element name="zombieButtonWidth" type="xsd:int" />
+      <xsd:element name="zombieButtonHeight" type="xsd:int" />
+      <xsd:element name="zombieButtonSrcX" type="xsd:int" />
+      <xsd:element name="zombieButtonSrcY" type="xsd:int" />
+      <xsd:element name="zombieButtonColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="bulletImageType">
+    <xsd:sequence>
+      <xsd:element name="bulletFileLocation" type="xsd:string" />
+      <xsd:element name="bulletWidth" type="xsd:int" />
+      <xsd:element name="bulletHeight" type="xsd:int" />
+      <xsd:element name="bulletSrcX" type="xsd:int" />
+      <xsd:element name="bulletSrcY" type="xsd:int" />
+      <xsd:element name="bulletColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="backgroundImageType">
+    <xsd:sequence>
+      <xsd:element name="backgroundFileLocation" type="xsd:string" />
+      <xsd:element name="backgroundWidth" type="xsd:int" />
+      <xsd:element name="backgroundHeight" type="xsd:int" />
+      <xsd:element name="backgroundSrcX" type="xsd:int" />
+      <xsd:element name="backgroundSrcY" type="xsd:int" />
+      <xsd:element name="backgroundColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="bloodSplat4ImageType">
+    <xsd:sequence>
+      <xsd:element name="bloodSplat4FileLocation" type="xsd:string" />
+      <xsd:element name="bloodSplat4Width" type="xsd:int" />
+      <xsd:element name="bloodSplat4Height" type="xsd:int" />
+      <xsd:element name="bloodSplat4SrcX" type="xsd:int" />
+      <xsd:element name="bloodSplat4SrcY" type="xsd:int" />
+      <xsd:element name="bloodSplat4Colorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="bloodSplat3ImageType">
+    <xsd:sequence>
+      <xsd:element name="bloodSplat3FileLocation" type="xsd:string" />
+      <xsd:element name="bloodSplat3Width" type="xsd:int" />
+      <xsd:element name="bloodSplat3Height" type="xsd:int" />
+      <xsd:element name="bloodSplat3SrcX" type="xsd:int" />
+      <xsd:element name="bloodSplat3SrcY" type="xsd:int" />
+      <xsd:element name="bloodSplat3Colorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="bloodSplat2ImageType">
+    <xsd:sequence>
+      <xsd:element name="bloodSplat2FileLocation" type="xsd:string" />
+      <xsd:element name="bloodSplat2Width" type="xsd:int" />
+      <xsd:element name="bloodSplat2Height" type="xsd:int" />
+      <xsd:element name="bloodSplat2SrcX" type="xsd:int" />
+      <xsd:element name="bloodSplat2SrcY" type="xsd:int" />
+      <xsd:element name="bloodSplat2Colorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="bloodSplatImageType">
+    <xsd:sequence>
+      <xsd:element name="bloodSplatFileLocation" type="xsd:string" />
+      <xsd:element name="bloodSplatWidth" type="xsd:int" />
+      <xsd:element name="bloodSplatHeight" type="xsd:int" />
+      <xsd:element name="bloodSplatSrcX" type="xsd:int" />
+      <xsd:element name="bloodSplatSrcY" type="xsd:int" />
+      <xsd:element name="bloodSplatColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="zombieFaceImageType">
+    <xsd:sequence>
+      <xsd:element name="zombieFaceFileLocation" type="xsd:string" />
+      <xsd:element name="zombieFaceWidth" type="xsd:int" />
+      <xsd:element name="zombieFaceHeight" type="xsd:int" />
+      <xsd:element name="zombieFaceSrcX" type="xsd:int" />
+      <xsd:element name="zombieFaceSrcY" type="xsd:int" />
+      <xsd:element name="zombieFaceColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="femaleFaceImageType">
+    <xsd:sequence>
+      <xsd:element name="femaleFaceFileLocation" type="xsd:string" />
+      <xsd:element name="femaleFaceWidth" type="xsd:int" />
+      <xsd:element name="femaleFaceHeight" type="xsd:int" />
+      <xsd:element name="femaleFaceSrcX" type="xsd:int" />
+      <xsd:element name="femaleFaceSrcY" type="xsd:int" />
+      <xsd:element name="femaleFaceColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="freakedFaceImageType">
+    <xsd:sequence>
+      <xsd:element name="freakedFaceFileLocation" type="xsd:string" />
+      <xsd:element name="freakedFaceWidth" type="xsd:int" />
+      <xsd:element name="freakedFaceHeight" type="xsd:int" />
+      <xsd:element name="freakedFaceSrcX" type="xsd:int" />
+      <xsd:element name="freakedFaceSrcY" type="xsd:int" />
+      <xsd:element name="freakedFaceColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="scaredFaceImageType">
+    <xsd:sequence>
+      <xsd:element name="scaredFaceFileLocation" type="xsd:string" />
+      <xsd:element name="scaredFaceWidth" type="xsd:int" />
+      <xsd:element name="scaredFaceHeight" type="xsd:int" />
+      <xsd:element name="scaredFaceSrcX" type="xsd:int" />
+      <xsd:element name="scaredFaceSrcY" type="xsd:int" />
+      <xsd:element name="scaredFaceColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="humanFaceImageType">
+    <xsd:sequence>
+      <xsd:element name="humanFaceFileLocation" type="xsd:string" />
+      <xsd:element name="humanFaceWidth" type="xsd:int" />
+      <xsd:element name="humanFaceHeight" type="xsd:int" />
+      <xsd:element name="humanFaceSrcX" type="xsd:int" />
+      <xsd:element name="humanFaceSrcY" type="xsd:int" />
+      <xsd:element name="humanFaceColorkey" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:schema>
