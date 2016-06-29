@@ -7,7 +7,7 @@ semester long course on object-oriented development within the context of video 
 
 The game was developed in OO C++ using several external libraries from the SDL (SimpleDirect Media Layer) libraries.  The game application allows the user to select from one of two games to play.  The first game, originally designed over the first 12 weeks of the semester, ZombieChase, is a top-down shooter/zombie game.  The player may opt to play as a human, moving around the map shooting zombies, or a zombie, moving around the map attempting to eat the humans.  Score is tabulated based on how many zombies or humans are killed.  Killing a human spawns a new zombie.
 
-The second game, Zombie Defense, is a 'tower defense' style game.  Prior to the start of the game, the player places stationary humans around the map.  Waves of zombies attempt to move from the right side of the screen to the left to eat the damsel in distress.  The station humans shoot bullets at the zombies at a static interval.  The player may place additional human defense towers as they kill more zombies.
+The second game, Zombie Defense, is a 'tower defense' style game.  Prior to the start of the game, the player places stationary humans around the map.  Waves of zombies attempt to move from the right side of the screen to the left to eat the damsel in distress.  The station humans shoot bullets at the zombies at a static interval.  The player may place additional human defense towers as they kill more zombies.  The Zombie Defense game was the focus of the final milestone for this project, which involved building an entirely new game into the architecture while trying to reuse as much code as possible.  This was completed with the introduction of less than 700 new lines of code, mostly to handle the game logic itself.
 
 Both games support the following features:
   * Save Game
@@ -39,7 +39,7 @@ Seeing as the code is 4+ years old, I make no guarantees on compatibility with n
 
 ## Contributing
 
-Please do not contribute to this project.  This compiler was a pedagogical exercise in OO development for CPSC 870: Object-Oriented Development.  It is not meant to be extended or contributed to, and is functionally a dead project.  It is only here for demonstrable reasons.
+Please do not contribute to this project.  This compiler was a pedagogical exercise in OO development for CPSC 870: Object-Oriented Development.  It is not meant to be extended or contributed to, and is functionally a dead project.  It is only here for demonstrable reasons.  But feel free to fork it if you like what you see and would like to use the framework.
 
 ## Credits
 
